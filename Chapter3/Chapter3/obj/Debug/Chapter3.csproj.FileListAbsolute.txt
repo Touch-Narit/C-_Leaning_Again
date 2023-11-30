@@ -1,0 +1,7 @@
+D:\codeprogram\codec#again\Chapter3\Chapter3\bin\Debug\Chapter3.exe.config
+D:\codeprogram\codec#again\Chapter3\Chapter3\bin\Debug\Chapter3.exe
+D:\codeprogram\codec#again\Chapter3\Chapter3\bin\Debug\Chapter3.pdb
+D:\codeprogram\codec#again\Chapter3\Chapter3\obj\Debug\Chapter3.csproj.AssemblyReference.cache
+D:\codeprogram\codec#again\Chapter3\Chapter3\obj\Debug\Chapter3.csproj.CoreCompileInputs.cache
+D:\codeprogram\codec#again\Chapter3\Chapter3\obj\Debug\Chapter3.exe
+D:\codeprogram\codec#again\Chapter3\Chapter3\obj\Debug\Chapter3.pdb
